@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Simple tabla de Multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    
+    "base3": "node app --base=3"
+  },
+  "author": "Tacacho Sergio Marcelo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
